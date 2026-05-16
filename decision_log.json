@@ -1,0 +1,258 @@
+{
+  "niche": {
+    "cluster": "fathers_day_printable",
+    "raw_score": 531.0,
+    "mentions": 0,
+    "single_word_hits": 3,
+    "season_boost": 2.0,
+    "competition_hits": 0,
+    "deliverability": 1.0,
+    "final_score": 1062.0,
+    "evidence": [
+      {
+        "sub": "Etsy",
+        "title": "Wrong kilt - second time it\u2019s still not right.",
+        "score": 32,
+        "url": "https://reddit.com/r/Etsy/comments/1tca3yw/",
+        "matched_kw": "~dad"
+      },
+      {
+        "sub": "printondemand",
+        "title": "Has anyone noticed how many \"best POD niches 2026\" \nlists just recycle the same dead niches?",
+        "score": 10,
+        "url": "https://reddit.com/r/printondemand/comments/1tdxnqa/",
+        "matched_kw": "~dad"
+      },
+      {
+        "sub": "Parenting",
+        "title": "Daughter made to wet herself at school",
+        "score": 1728,
+        "url": "https://reddit.com/r/Parenting/comments/1tdgpqg/",
+        "matched_kw": "~dad"
+      }
+    ]
+  },
+  "all_ranked": [
+    {
+      "cluster": "fathers_day_printable",
+      "raw_score": 531.0,
+      "mentions": 0,
+      "single_word_hits": 3,
+      "season_boost": 2.0,
+      "competition_hits": 0,
+      "deliverability": 1.0,
+      "final_score": 1062.0,
+      "evidence": [
+        {
+          "sub": "Etsy",
+          "title": "Wrong kilt - second time it\u2019s still not right.",
+          "score": 32,
+          "url": "https://reddit.com/r/Etsy/comments/1tca3yw/",
+          "matched_kw": "~dad"
+        },
+        {
+          "sub": "printondemand",
+          "title": "Has anyone noticed how many \"best POD niches 2026\" \nlists just recycle the same dead niches?",
+          "score": 10,
+          "url": "https://reddit.com/r/printondemand/comments/1tdxnqa/",
+          "matched_kw": "~dad"
+        },
+        {
+          "sub": "Parenting",
+          "title": "Daughter made to wet herself at school",
+          "score": 1728,
+          "url": "https://reddit.com/r/Parenting/comments/1tdgpqg/",
+          "matched_kw": "~dad"
+        }
+      ]
+    },
+    {
+      "cluster": "nursery_art",
+      "raw_score": 164.1,
+      "mentions": 0,
+      "single_word_hits": 1,
+      "season_boost": 1.3,
+      "competition_hits": 0,
+      "deliverability": 1.0,
+      "final_score": 213.3,
+      "evidence": [
+        {
+          "sub": "Parenting",
+          "title": "Rant : Ms RACHEAL",
+          "score": 547,
+          "url": "https://reddit.com/r/Parenting/comments/1tbd0zk/",
+          "matched_kw": "~baby"
+        }
+      ]
+    },
+    {
+      "cluster": "social_templates",
+      "raw_score": 138.9,
+      "mentions": 0,
+      "single_word_hits": 2,
+      "season_boost": 1.0,
+      "competition_hits": 0,
+      "deliverability": 1.0,
+      "final_score": 138.9,
+      "evidence": [
+        {
+          "sub": "passive_income",
+          "title": "14 months of digital products on Etsy. Real numbers, real talk.",
+          "score": 381,
+          "url": "https://reddit.com/r/passive_income/comments/1tdna9m/",
+          "matched_kw": "~template"
+        },
+        {
+          "sub": "passive_income",
+          "title": "If someone is truly making thousands of dollars every month effortlessly\u2026 why are they posting 4 to 5 reels everyday tea",
+          "score": 82,
+          "url": "https://reddit.com/r/passive_income/comments/1tbcr2a/",
+          "matched_kw": "~reel"
+        }
+      ]
+    },
+    {
+      "cluster": "wedding_stationery",
+      "raw_score": 64.4,
+      "mentions": 0,
+      "single_word_hits": 4,
+      "season_boost": 1.6,
+      "competition_hits": 0,
+      "deliverability": 0.95,
+      "final_score": 97.9,
+      "evidence": [
+        {
+          "sub": "Etsy",
+          "title": "Wrong kilt - second time it\u2019s still not right.",
+          "score": 32,
+          "url": "https://reddit.com/r/Etsy/comments/1tca3yw/",
+          "matched_kw": "~wedding"
+        },
+        {
+          "sub": "EtsySellers",
+          "title": "30 sales in my first month on Etsy!!! \ud83d\ude01",
+          "score": 176,
+          "url": "https://reddit.com/r/EtsySellers/comments/1t9l3nd/",
+          "matched_kw": "~wedding"
+        },
+        {
+          "sub": "WeddingsPlanning",
+          "title": "Wedding Mishegas for NYC Area Brides &amp; Grooms",
+          "score": 0,
+          "url": "https://reddit.com/r/WeddingsPlanning/comments/39q6r/",
+          "matched_kw": "~wedding"
+        },
+        {
+          "sub": "WeddingsPlanning",
+          "title": "The one stop wedding sub!",
+          "score": 0,
+          "url": "https://reddit.com/r/WeddingsPlanning/comments/2qhtr/",
+          "matched_kw": "~wedding"
+        }
+      ]
+    },
+    {
+      "cluster": "wall_art_prints",
+      "raw_score": 82.9,
+      "mentions": 0,
+      "single_word_hits": 8,
+      "season_boost": 1.0,
+      "competition_hits": 0,
+      "deliverability": 1.0,
+      "final_score": 82.9,
+      "evidence": [
+        {
+          "sub": "printondemand",
+          "title": "Looking for a good quality Print On Demand with a wide variety of items.",
+          "score": 13,
+          "url": "https://reddit.com/r/printondemand/comments/1ta6mj7/",
+          "matched_kw": "~print"
+        },
+        {
+          "sub": "printondemand",
+          "title": "Best print-on-demand in 2026?",
+          "score": 9,
+          "url": "https://reddit.com/r/printondemand/comments/1tabsk6/",
+          "matched_kw": "~print"
+        },
+        {
+          "sub": "printondemand",
+          "title": "Returns on personalized products are quietly destroying our margins",
+          "score": 6,
+          "url": "https://reddit.com/r/printondemand/comments/1tcuy5w/",
+          "matched_kw": "~print"
+        },
+        {
+          "sub": "printondemand",
+          "title": "I built a local desktop app that turns PNG and JPG images into scalable SVG vectors",
+          "score": 4,
+          "url": "https://reddit.com/r/printondemand/comments/1t9fku2/",
+          "matched_kw": "~art"
+        },
+        {
+          "sub": "printondemand",
+          "title": "Looking for an ethical site.",
+          "score": 4,
+          "url": "https://reddit.com/r/printondemand/comments/1te7dkn/",
+          "matched_kw": "~print"
+        }
+      ]
+    },
+    {
+      "cluster": "summer_decor",
+      "raw_score": 35.4,
+      "mentions": 0,
+      "single_word_hits": 2,
+      "season_boost": 1.6,
+      "competition_hits": 0,
+      "deliverability": 1.0,
+      "final_score": 56.6,
+      "evidence": [
+        {
+          "sub": "printondemand",
+          "title": "anyone else get tired of printify shipping times or just me",
+          "score": 8,
+          "url": "https://reddit.com/r/printondemand/comments/1tbkhau/",
+          "matched_kw": "~summer"
+        },
+        {
+          "sub": "Parenting",
+          "title": "Should I force excellence?",
+          "score": 110,
+          "url": "https://reddit.com/r/Parenting/comments/1tcybos/",
+          "matched_kw": "~summer"
+        }
+      ]
+    },
+    {
+      "cluster": "graduation_printable",
+      "raw_score": 16.0,
+      "mentions": 1,
+      "single_word_hits": 0,
+      "season_boost": 2.5,
+      "competition_hits": 0,
+      "deliverability": 1.0,
+      "final_score": 40.0,
+      "evidence": []
+    },
+    {
+      "cluster": "tshirt_designs",
+      "raw_score": 1.0,
+      "mentions": 0,
+      "single_word_hits": 1,
+      "season_boost": 1.0,
+      "competition_hits": 0,
+      "deliverability": 0.6,
+      "final_score": 0.6,
+      "evidence": [
+        {
+          "sub": "PrintOnDemandTips",
+          "title": "Merch By Amazon Forum",
+          "score": 0,
+          "url": "https://reddit.com/r/PrintOnDemandTips/comments/3aznu/",
+          "matched_kw": "~merch"
+        }
+      ]
+    }
+  ]
+}
